@@ -1,7 +1,7 @@
-# ActionRPG
+## ActionRPG
 um exemplo de action RPG em Godot, em desenvolvimento
 
-## features atuais
+### features atuais
 - movimentação básica do jogador
 - collision com cliffs e trees
 - movimentos de ataque que destroem a graminha
